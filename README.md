@@ -81,7 +81,7 @@ Câu trả lời đó chính là do Circl DLL vẫn chưa được add với Hea
 
 ![alt-text](https://i.imgur.com/fzlv0eC.png)
 
-    - Chúng ta kiểm thử với file shapes.txt theo quy định: 
+    - Chúng ta kiểm thử với file shapes.txt theo quy định (Nhưng đôi khi phải shapes.txt lại không tự động vào thư mục Debug hoặc Release khi ấy chúng ta chỉ cần Copy shapes.txt và bỏ vào nơi chứa main.exe là được): 
 
 ![alt-text](https://i.imgur.com/r4KBpeM.png)
 
