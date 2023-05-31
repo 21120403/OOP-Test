@@ -8,7 +8,7 @@ __Thành viên nhóm__
 
 ## __Tạo 1 Project DLL mới__
 
-Đầu tiên chúng em sẽ tạo 1 Project mới, nhưng thay vì tạo vằng Empty Project thì chúng em đã hướng tới việc xây dựng tách các đối tượng hình học ra các thư viện liên kết động (.dll) để có thể dễ sửa chữa và thay đổi thế nên chúng em chọn Tạo 1 Console App để có thể sử dụng các thư viện liên kết động sẽ được xây dựng
+Đầu tiên chúng em sẽ tạo 1 Project mới, nhưng thay vì tạo bằng Empty Project thì chúng em đã hướng tới việc xây dựng tách các đối tượng hình học ra các thư viện liên kết động (.dll) để có thể dễ sửa chữa và thay đổi thế nên chúng em chọn Tạo 1 Console App để có thể sử dụng các thư viện liên kết động sẽ được xây dựng
 
 ![alt-text](https://i.imgur.com/Cf46Mbz.png)
 
