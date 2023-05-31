@@ -4,7 +4,7 @@ __Thành viên nhóm__
 
 - Họ tên: Nguyễn Hoàng Quân -- MSSV: 21120403
 
-- Họ tên: Lê Viết Đạt Trọng -- MSSV: 21120416
+- Họ tên: Lê Viết Đạt Trọng -- MSSV: 21120406
 
 ## __Tạo 1 Project DLL mới__
 
